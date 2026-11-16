@@ -14,3 +14,7 @@ python -m pytest tests/unit
 The broader test suite is under `tests/`. MIT licensed.
 
 Set `RUN_TIMING_BENCHMARKS=1` to enforce the machine-speed threshold in the broader suite.
+
+## AI assistance
+
+This project was developed with heavy AI assistance. Codex and Google Antigravity are the main coding tools I use across these projects.
