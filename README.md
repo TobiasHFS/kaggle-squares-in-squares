@@ -1,6 +1,6 @@
-# Squares in Squares
+# Kaggle Squares in Squares
 
-Geometry checks and constructive generators for packing unit squares into a larger square. A registry keeps the best valid packing found for each size.
+Geometry checks and constructive generators for the Kaggle Squares in Squares competition. The task is to pack unit squares into a larger square. A registry keeps the best valid packing found for each size.
 
 Implemented: collision checks, high-precision boundary checks, grid and tilted-block constructions, strip generators, persistence and CSV import/export. The continuous optimiser and submission client are still planned. Some generators use grid fallbacks, including parts of the historically named `literature_optima` module.
 
